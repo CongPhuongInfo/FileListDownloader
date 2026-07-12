@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:318befe06b70ee4780d5ed1c60a79fc0:1/1$ -->
+<TextureAtlas imagePath="hall_scene2.png">
+    <SubTexture name="hall_scene_christmasBg_0" x="0" y="0" width="2048" height="376" frameX="0" frameY="-45" frameWidth="2048" frameHeight="600"/>
+    <SubTexture name="hall_scene_christmasBg_1" x="0" y="376" width="1694" height="560" frameX="0" frameY="-1" frameWidth="1694" frameHeight="600"/>
+</TextureAtlas>

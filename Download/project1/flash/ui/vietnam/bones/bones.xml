@@ -1,0 +1,123 @@
+<bones name="bones" >
+	<bone styleName="sceneFightMovie" atlasName="sceneFight" path="ui/vietnam/starling/default/bones/" />
+	<bone styleName="sceneFightRevive" atlasName="sceneFight" path="ui/vietnam/starling/default/bones/" />
+	<bone styleName="hallScene.MouseClickMovie" atlasName="ui_common_bones_1" path="ui/vietnam/starling/default/bones/"  />
+	<bone styleName="hallScene.store" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  boneType="player"/>
+	<bone styleName="hallScene.roomList" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.ringStation" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.redPlatform" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.laurel" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.labyrinth" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.home" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.gypsy" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  boneType="player"/>
+	<bone styleName="hallScene.magicHouse" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  boneType="player"/>
+	<bone styleName="hallScene.goldPlatform" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.dungeon" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.cryptBoss" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.constrion" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  boneType="player"/>
+	<bone styleName="hallScene.church" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  boneType="player"/>
+	<bone styleName="hallScene.bluePlatform" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.auction" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  boneType="player"/>
+	<bone styleName="hallScene.boat" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.butterfly1" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.butterfly2" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.dockLight" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.hook" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.sea" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.tree" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  />
+	<bone styleName="hallScene.hotspring" atlasName="ui_hallScene_build_bones" path="ui/vietnam/starling/hall_scene/bones/"  boneType="player" />
+
+	<bone styleName="game.living.Living392" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living393" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living396" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living399" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living400" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living401" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living405" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living406" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living407" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living408" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living409" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living425" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living428" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living440" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living441" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living442" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living443" atlasName="image_petFollow_1" path="image/petFollow/" loadType="2" />
+	
+	<bone styleName="game.living.Living513" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living515" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living522" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living523" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living517" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living528" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living516" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living546" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living604" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living622" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living623" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living652" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living653" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	<bone styleName="game.living.Living654" atlasName="image_petFollow_2" path="image/petFollow/" loadType="2" />
+	
+	<bone styleName="bonesGameAttackCiteAsset" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameGhostMovieAsset" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameGhostBox1" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameGhostBox2" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameGhostBoxDie" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameGhostPcikPropAsset" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameMouseShape" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGamePickBoxAsset" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameRadialAsset" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameSurvivalTarget" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameTrailFrostEffectAsset" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameAttackEffect1" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameAttackEffect2" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameGhostShineAsset" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGamePropanimationGuild" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameBombedAsset1" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameDanderAsset" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameFrostEffectAsset" atlasName="game1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameSkillClearDebuffMc" atlasName="game2" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameSpecialSkillA1" atlasName="gameSpecialSkillA" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameSpecialSkillA2" atlasName="gameSpecialSkillA" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameSpecialSkillA3" atlasName="gameSpecialSkillA" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameSpecialSkillA4" atlasName="gameSpecialSkillA" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameSpecialSkillB1" atlasName="gameSpecialSkillB" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameSpecialSkillB2" atlasName="gameSpecialSkillB" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameSpecialSkillB3" atlasName="gameSpecialSkillB" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bonesGameSpecialSkillB4" atlasName="gameSpecialSkillB" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bones.game.sceneEffectMovie-1" atlasName="bones_game_battle_1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bones.game.sceneEffectMovie-2" atlasName="bones_game_battle_1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bones.game.sceneEffectMovie-3" atlasName="bones_game_battle_1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bones.game.sceneEffectMovie-4" atlasName="bones_game_battle_1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bones.game.sceneEffectMovie-101" atlasName="bones_game_battle_1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bones.game.sceneEffectMovie-102" atlasName="bones_game_battle_1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bones.game.sceneEffectMovie-103" atlasName="bones_game_battle_1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bones.game.sceneEffectMovie-104" atlasName="bones_game_battle_1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bones.game.sceneEffectBullet-101" atlasName="bones_game_battle_1" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bones.game.sceneEffectBlastOut-101" atlasName="bones_game_battle_2" path="ui/vietnam/starling/game/bones/" />
+	<bone styleName="bones.game.sceneEffectBlastOut-102" atlasName="bones_game_battle_2" path="ui/vietnam/starling/game/bones/" />
+	
+	<!-- 公会守护boss -->
+	<bone styleName="ConsortiaGuardBossMovie_1" atlasName="consortiaGuardBones1" path="ui/vietnam/starling/consortiaGuard/bones/" />
+	<bone styleName="ConsortiaGuardBossMovie_3" atlasName="consortiaGuardBones1" path="ui/vietnam/starling/consortiaGuard/bones/" />
+	<bone styleName="ConsortiaGuardBossMovie_4" atlasName="consortiaGuardBones1" path="ui/vietnam/starling/consortiaGuard/bones/" />
+	<bone styleName="ConsortiaGuardBossMovie_2" atlasName="consortiaGuardBones2" path="ui/vietnam/starling/consortiaGuard/bones/" />
+	
+	<!-- 公会领地 -->
+	<bone styleName="consortiaDomainBagStoreEff" atlasName="ui_consortia_domain_bone" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortiaDomainCityEff1" atlasName="ui_consortia_domain_bone" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortiaDomainCityEff2" atlasName="ui_consortia_domain_bone" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortiaDomainCityEff3" atlasName="ui_consortia_domain_bone" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortiaDomainHomeBankEff" atlasName="ui_consortia_domain_bone" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortiaDomainMonsterBornPointEff1" atlasName="ui_consortia_domain_bone" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortiaDomainMonsterBornPointEff2" atlasName="ui_consortia_domain_bone" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortia_domain_bone_living007" atlasName="consortia_domain_bone_living" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortia_domain_bone_living191" atlasName="consortia_domain_bone_living" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortiaDomainShopEff" atlasName="ui_consortia_domain_bone" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortiaDomainSkillEff" atlasName="ui_consortia_domain_bone" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortia_domain_bone_fight_state" atlasName="ui_consortia_domain_bone" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortiaDomainBuildStateIconFight" atlasName="ui_consortia_domain_bone" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+	<bone styleName="consortiaDomainBuildStateIconUpgrade" atlasName="ui_consortia_domain_bone" path="ui/vietnam/starling/consortia_domain_scene/bones/" loadType="1" />
+</bones>

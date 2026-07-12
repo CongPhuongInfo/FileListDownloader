@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 勇者之门副本模板数据,每个item字段说明如下：
+	id：副本ID; page:在第几页面显示;x:X坐标; y:Y坐标; icon:该副本 图标; name:副本名称
+ -->
+<maps>
+ 	<map mapUrl="asset.braveDoor.mapIcon" mapWidth="663" mapHeight="433" mapX="29" mapY="56" page="0">
+ 		<items>
+			<item id="9001" x="175" y="267" backStyle="asset.braveDoor.duplicateBtn1" filterString="null,lightFilter,null,grayFilter" name="兵蚁剿穴"/>
+			<item id="9002" x="283" y="300" backStyle="asset.braveDoor.duplicateBtn2" filterString="null,lightFilter,null,grayFilter" name="啵咕舰船"/>
+			<item id="9003" x="513" y="351" backStyle="asset.braveDoor.duplicateBtn3" filterString="null,lightFilter,null,grayFilter" name="部落森林"/>
+			<item id="9004" x="510" y="106" backStyle="asset.braveDoor.duplicateBtn4" filterString="null,lightFilter,null,grayFilter" name="城市废墟"/>
+		</items>
+ 	</map>
+</maps>
+	

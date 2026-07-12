@@ -1,0 +1,26 @@
+﻿<FONT COLOR="#FFF000">Gunner thân mến,
+Mừng Gunner đã quay trở lại, trong 3 tháng gần đây Gunny đã có những thay đổi sau:</FONT>
+23.06.2022: Phiên bản mới - Đại Tiệc Sinh Nhật 13 Tuổi.
++ Phó bản LSV Mới: Phế Tích Thiêu Rụi, Tham gia tại EVENT -> PB Liên Server -> Phế Tích Thiêu Rụi.
++ Tính năng mới: Linh Bảo, Tham gia tại Thần Hộ Mệnh -> Linh Bảo.
++ Thêm trang bị thức tỉnh 2 & 3 dành cho các Thú cưng: Phượng Hoàng Lửa, Rồng Băng & Đấu Sĩ/Đấu Sĩ Hiếm.
++ Thêm trang bị thức tỉnh 1 cho Thú cưng: Thỏ Ngọc.
++ Khu Rừng Ma Thuật & PB Đoàn Đội điều chỉnh 1 tuần tham gia 1 lần, x3 Phần thưởng Vượt Ải & x3 Tỷ lệ rơi thưởng.
++ Kho Báu Người Cá & Hang Dung Nham điều chỉnh 1 ngày có thể đi 1 lần, phần thưởng lật bài x3.
++ Ma Ngọc thêm chức năng thay đổi theo từng Bộ.
++ Phó bản Vùng Đất Băng Giá có thể mở nhanh Ải Cuối.
++ Lễ Mừng Sinh Nhật điều chỉnh phần thưởng mới.
++ Chiến Đội: Thêm bảo vệ kẻ yếu, khi ghép trận cách nhau 2 bậc hệ thống sẽ tăng thêm thuộc tính cho người chơi bậc yếu hơn. Bậc càng yếu thuộc tính càng cao.
++ Vật phẩm mới: Nhẫn & Vòng Tay 13 Tuổi, Cánh 13 Tuổi, Bong Bóng 13 Tuổi, Dây Chuyền 13 Tuổi.
+19.05.2022: Phiên bản mới - Bí Ẩn Rừng Xanh
++ Hoạt động mới: Phó bản Cốt Truyện, Xem và tham gia tại EVENT - Phó bản Cốt Truyện
++ Thức Tỉnh Thú Cưng Lần 2 & 3, xem và tham gia tại PET - Đào Tạo PET - Thức Tỉnh - Thức Tỉnh Siêu & Dung Hợp. Thức Tỉnh tối đa trang bị đạt Lv.4 sẽ Thức tỉnh cùng lúc 2 kỹ năng PET.
++ Hiện tại đã mở thức tỉnh siêu cho các trang bị thức tỉnh  của Thú cưng sau: Mầm Xanh, Ma Xà, Hỏa Khuyển, Kungfu Đại Sư
++ Đấu Hẹn Hò giảm còn 2 lần đi mỗi ngày trong thời gian sự kiện, phần thưởng x2.
+31.03.2022: Phiên bản mới - Gà Tìm Lối Thoát
++ Kiểu chơi mới: Gà Tìm Lối Thoát, xem và tham gia tại EVENT - Gà Tìm Lối Thoát.
++ Hoạt động mới: Gunny Fashion Show, xem và tham gia tại EVENT - Fashion Show
++ Mở rộng giới hạn mang kỹ năng bị động của Thú cưng từ 3 lên 5.
++ Đấu Sinh Tồn sửa thành chỉ ghép 2 người.
++ Giảm hiệu quả trận pháp Ma Ngọc - Ngũ Nguyên: Lửa, Nước, Đất & Gió.
++ Thú cưng Phượng Hoàng Lửa, Thỏ Ngọc, Chuột Thợ Mỏ có thể dùng Phong Ấn PET.
