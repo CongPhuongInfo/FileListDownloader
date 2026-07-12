@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
-<!-- $TexturePacker:SmartUpdate:0eff075e1206a67e75e9dde896feeb2b:1/1$ -->
-<TextureAtlas imagePath="consortia_domain_scene1.png">
-    <SubTexture name="consortia_domain_scene/0_0" x="0" y="0" width="2048" height="2000"/>
-</TextureAtlas>
