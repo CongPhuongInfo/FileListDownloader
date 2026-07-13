@@ -1,5 +1,9 @@
 # Trình tạo danh sách & tải tệp — 2CongLC
 
+<p align="center">
+  <img src="FilelistLogo.png" width="800">
+</p>
+
 Công cụ WinForms (VB.NET) gồm 2 chức năng:
 
 1. **Tạo danh sách liên kết tải** — quét một thư mục tệp trên máy, sinh ra danh sách URL (hoặc đường dẫn) tương ứng, lưu ra tệp `.txt`.
